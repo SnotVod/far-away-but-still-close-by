@@ -1,0 +1,16 @@
+{
+  "gingie-idle": {"src": "gingie-idle.png", "frameWidth": 64, "frameHeight": 88, "frames": 2, "anchor": [32, 84], "fps": 2},
+  "gingie-talk": {"src": "gingie-talk.png", "frameWidth": 64, "frameHeight": 88, "frames": 2, "anchor": [32, 84], "fps": 6},
+  "gingie-cheer": {"src": "gingie-cheer.png", "frameWidth": 64, "frameHeight": 88, "frames": 4, "anchor": [32, 84], "fps": 6},
+  "gingie-wave": {"src": "gingie-wave.png", "frameWidth": 64, "frameHeight": 88, "frames": 2, "anchor": [32, 84], "fps": 4},
+  "gingie-goalie-ready": {"src": "gingie-goalie-ready.png", "frameWidth": 64, "frameHeight": 88, "frames": 2, "anchor": [32, 84], "fps": 4},
+  "gingie-goalie-dive-left": {"src": "gingie-goalie-dive-right.png", "frameWidth": 96, "frameHeight": 88, "frames": 3, "anchor": [48, 84], "fps": 10, "flipX": true},
+  "gingie-goalie-dive-right": {"src": "gingie-goalie-dive-right.png", "frameWidth": 96, "frameHeight": 88, "frames": 3, "anchor": [48, 84], "fps": 10},
+  "gingie-goalie-flop": {"src": "gingie-goalie-flop.png", "frameWidth": 96, "frameHeight": 88, "frames": 3, "anchor": [48, 84], "fps": 8},
+  "mille-bike": {"src": "mille-bike.png", "frameWidth": 112, "frameHeight": 96, "frames": 4, "anchor": [56, 92], "fps": 8},
+  "gingie-sneak": {"src": "gingie-sneak.png", "frameWidth": 64, "frameHeight": 88, "frames": 4, "anchor": [32, 84], "fps": 6},
+  "gingie-freeze": {"src": "gingie-freeze.png", "frameWidth": 64, "frameHeight": 88, "frames": 2, "anchor": [32, 84], "fps": 2},
+  "mille-dance": {"src": "mille-dance.png", "frameWidth": 80, "frameHeight": 96, "frames": 4, "anchor": [40, 92], "fps": 4},
+  "duo-dance": {"src": "duo-dance.png", "frameWidth": 112, "frameHeight": 96, "frames": 4, "anchor": [56, 92], "fps": 4},
+  "duo-snow-angel": {"src": "duo-snow-angel.png", "frameWidth": 128, "frameHeight": 96, "frames": 4, "anchor": [64, 48], "fps": 3}
+}
